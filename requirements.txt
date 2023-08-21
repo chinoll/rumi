@@ -1,2 +1,3 @@
 openai
 ujson
+deepdanbooru_onnx
