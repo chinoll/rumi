@@ -1,0 +1,52 @@
+[
+    {
+        "tag":"1girl,aqua_bikini,bangs,beach,bikini,black_bow,blue_eyes,blurry,blurry_background,blurry_foreground,blush,bow,breasts,cleavage,depth_of_field,elf,eyebrows_visible_through_hair,flower,hair_bow,hair_flower",
+        "blip2_caption":"a girl in a bikini on the beach",
+        "id":"000000000"
+    },
+    {
+        "tag":"2girls,bangs,black_hair,bra,day,long_hair,multiple_girls,one-piece_swimsuit,outdoors,pink_bra,swimsuit,underwear,yuri",
+        "blip2_caption":"two women in swimsuits are fighting in a game",
+        "id":"000000001"
+    },
+    {
+        "tag":"1girl,angel_wings,bare_shoulders,barefoot,beach_umbrella,bed,bed_sheet,blush,canopy_bed,curtains,feathered_wings,feet_up,hair_ornament,headset,holding_umbrella,lens_flare,light_rays,looking_at_viewer,lying,on_bed",
+        "blip2_caption":"a girl in a dress laying on a bed with her legs crossed",
+        "id":"000000002"
+    },
+    {
+        "tag":"1girl,?,air_bubble,arm_up,armpits,bangs,bare_arms,bare_shoulders,blue_bow,blue_eyes,blush,bow,breasts,bubble,closed_mouth,dress,eyebrows_visible_through_hair,long_hair,looking_at_viewer,purple_hair",
+        "blip2_caption":"a girl with purple hair and a hat holding a water bottle",
+        "id":"000000003"
+    },
+    {
+        "tag":"1girl,bangs,black_bow,blonde_hair,blue_eyes,blue_sky,blush,bow,breasts,closed_mouth,cloud,cloudy_sky,condensation_trail,day,forehead,hat,horizon,long_hair,looking_at_viewer,multiple_bows",
+        "blip2_caption":"an anime girl wearing a hat and holding a kite",
+        "id":"000000004"
+    },
+    {
+        "tag":"1girl,animal,animal_on_shoulder,arm_up,ball,bare_legs,barefoot,black_cat,blush,brown_eyes,brown_hair,calico,cat,cat_ears,cat_on_head,cat_tail,cat_teaser,holding_cat,jacket,lying",
+        "blip2_caption":"a girl laying on the floor surrounded by cats",
+        "id":"000000005"
+    },
+    {
+        "tag":"1girl,bangs,black_headwear,blouse,blue_background,blue_blouse,blush,bow,bright_pupils,collar,collared_shirt,eyeball,eyebrows_visible_through_hair,floral_print,frilled_collar,frilled_shirt_collar,frilled_sleeves,frills,green_eyes,green_hair",
+        "blip2_caption":"a girl with green hair wearing a hat and holding a purple ribbon",
+        "id":"000000006"
+    },
+    {
+        "tag":"1girl,animal_ears,bangs,bare_shoulders,black_jacket,breasts,brown_eyes,brown_hair,cleavage,cowboy_shot,eyebrows_visible_through_hair,holding,jacket,long_hair,looking_at_viewer,medium_breasts,midriff,navel,off_shoulder,ponytail",
+        "blip2_caption":"an anime girl with long hair and a sword",
+        "id":"000000007"
+    },
+    {
+        "tag":"1girl,armpits,bare_shoulders,black_legwear,breasts,brown_legwear,choker,detached_sleeves,dress,earrings,frilled_gloves,frills,gloves,hair_cones,hair_ornament,jewelry,long_hair,looking_at_viewer,lying,medium_breasts",
+        "blip2_caption":"anime girl with long hair laying on the floor",
+        "id":"000000008"
+    },
+    {
+        "tag":"1girl,ahoge,bangs,blue_bow,blue_bowtie,blue_jacket,blue_nails,blush,bowtie,braid,breasts,cleavage,corset,elf,eyebrows_visible_through_hair,flower,frilled_legwear,fur-trimmed_coat,fur-trimmed_jacket,fur_trim",
+        "blip2_caption":"anime girl with blue hair and blue eyes",
+        "id":"000000009"
+    }
+]
